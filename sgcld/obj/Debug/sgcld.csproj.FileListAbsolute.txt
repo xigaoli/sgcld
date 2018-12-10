@@ -1,8 +1,8 @@
 C:\Users\drake-win7\source\repos\sgcld\sgcld\bin\Debug\sgcld.exe
+C:\Users\drake-win7\source\repos\sgcld\sgcld\bin\Debug\sgcld.pdb
 C:\Users\drake-win7\source\repos\sgcld\sgcld\obj\Debug\sgcld.Form1.resources
 C:\Users\drake-win7\source\repos\sgcld\sgcld\obj\Debug\sgcld.Properties.Resources.resources
 C:\Users\drake-win7\source\repos\sgcld\sgcld\obj\Debug\sgcld.csproj.GenerateResource.cache
 C:\Users\drake-win7\source\repos\sgcld\sgcld\obj\Debug\sgcld.csproj.CoreCompileInputs.cache
 C:\Users\drake-win7\source\repos\sgcld\sgcld\obj\Debug\sgcld.exe
 C:\Users\drake-win7\source\repos\sgcld\sgcld\obj\Debug\sgcld.pdb
-C:\Users\drake-win7\source\repos\sgcld\sgcld\bin\Debug\sgcld.pdb

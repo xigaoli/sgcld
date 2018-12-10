@@ -38,8 +38,8 @@ namespace sgcld
         #endregion
         public Form1()
         {
-
             InitializeComponent();
+
             Rectangle r = Screen.GetWorkingArea(this);
             this.Location = new Point(r.Right - this.Width, r.Bottom - this.Height);
             //这里是调用：单击按钮2之后 开启钩子监视
